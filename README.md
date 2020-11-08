@@ -15,4 +15,5 @@ Currently, blocked elements are:
 <p>Download <a href="https://github.com/Jellybean-Sandwich/cautious-parakeet/releases/latest">cautious-parakeet_ublock-filters-for-youtube.txt</a>
 <br />Open the uBlock Origins dashboard
 <br />Navigate to 'My Filters', press 'Import and Append' and choose the txt file you downloaded
+<br />Press 'Apply Changes'
 <br /> All done!</p>
