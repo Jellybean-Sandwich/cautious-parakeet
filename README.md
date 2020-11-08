@@ -8,8 +8,11 @@ Currently, blocked elements are:
 <br />End cards, 
 <br />the 'old browser' alert, 
 <br />the "Sign In for the Best Youtube Experience" screen, 
-<br />the Up Next section, comments, 
+<br />the Up Next section, 
+<br />comments, 
 <br />and the 'People Also Watched' section inside searches
+
+A lite version that doesn't block comments, 'People Also Watched', and 'Up Next', is also available
 
 # How to use this:
 <p>Download <a href="https://github.com/Jellybean-Sandwich/cautious-parakeet/releases/latest">cautious-parakeet_ublock-filters-for-youtube.txt</a>
