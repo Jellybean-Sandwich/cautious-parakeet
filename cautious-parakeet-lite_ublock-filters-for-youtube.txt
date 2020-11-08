@@ -1,0 +1,14 @@
+!Block end cards
+youtube.com##.ytp-ce-element
+youtube.com##.ytp-cards-teaser
+
+!Block old browser alert
+youtube.com###old-browser-alert > .yt-alert-content
+youtube.com###old-browser-alert
+
+!Allow Timestamps to play from the correct time
+youtube.com##+js(set, ytInitialPlayerResponse.auxiliaryUi.messageRenderers.upsellDialogRenderer.isVisible, false)
+youtube.com##+js(set, ytInitialData.topbar.desktopTopbarRenderer.interstitial.consentBumpRenderer.forceConsent, false)
+
+!Blocks the "Sign In for the Best Youtube Experience" screen
+youtube.com###error-screen
